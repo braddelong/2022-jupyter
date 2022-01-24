@@ -14,3 +14,5 @@ _book
 *.epub
 *.mobi
 *.pdf
+.ipynb_checkpoints/econ-135-s2022-growth-theory-&-jupyter-checkpoint.ipynb
+.ipynb_checkpoints/econ-135-s2022-jps01-checkpoint.ipynb
